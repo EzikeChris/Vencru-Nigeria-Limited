@@ -1,5 +1,5 @@
 // Route File
-import { Routes, Route } from "react-router";
+import { Routes, Route } from "react-router-dom";
 import Settings from "../view/setting";
 const Router = () => {
   return (
