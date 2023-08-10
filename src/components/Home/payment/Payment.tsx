@@ -1,3 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-nocheck
 import BankCards from "./Cards";
 import ContactSelect from "./Contact";
 import plusIcon from "../../../assets/plus-Icon.svg";

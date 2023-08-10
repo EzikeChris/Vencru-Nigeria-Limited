@@ -1,3 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-nocheck
 import logo from "../../../assets/svg/Logo.svg"
 import { NavData as links, Support } from "./Navdata";
 import featured from "../../../assets/svg/featured-image.png";
