@@ -1,11 +1,10 @@
-// Route File
 import { Routes, Route } from "react-router-dom";
-import Settings from "../view/setting";
+import Settings from "../view/Settings/Setting";
 const Router = () => {
   return (
     <div>
       <Routes>
-        <Route path="/" element={<Settings />} />
+        <Route path="/" Component={Settings}/>
       </Routes>
     </div>
   );
