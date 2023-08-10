@@ -1,3 +1,4 @@
+// @ts-ignore
 import downloadIcon from "../../../assets/svg/download-icon.svg";
 import goodIcon from "../../../assets/svg/good.svg";
 import arrowDown from "../../../assets/svg/arrow-down.svg";
